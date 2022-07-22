@@ -2,6 +2,8 @@
     "name": "ahmed-el-khoribi/word-converter",
     "description": "Converts word letters from left to right, example: origin: ahmed return: demha.",
     "type": "library",
+    "homepage": "https://github.com/ahmed-el-khoribi",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "WordConverter\\": "src"
@@ -11,8 +13,14 @@
         {
             "name": "Ahmed.Reda",
             "email": "ahmed.reda@linkdev.com",
+            "homepage": "https://myahmedreda.wordpress.com",
             "role": "Developer"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.2"
+    },
+    "support": {
+        "email": "ahmed.reda@linkdev.com"
+    }
 }
