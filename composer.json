@@ -1,0 +1,18 @@
+{
+    "name": "ahmed-el-khoribi/word-converter",
+    "description": "Converts word letters from left to right, example: origin: ahmed return: demha.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "AhmedReda\\WordConverter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmed.Reda",
+            "email": "ahmed.reda@linkdev.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {}
+}
