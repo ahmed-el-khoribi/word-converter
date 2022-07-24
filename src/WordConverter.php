@@ -3,6 +3,12 @@ namespace WordConverter;
 
 class WordConverter
 {
+    /**
+     * Reverse words
+     * @param string $word
+     * 
+     * @return string $reversed
+     */
     public static function reverse(string $word)
     {
         $reversed = "";
